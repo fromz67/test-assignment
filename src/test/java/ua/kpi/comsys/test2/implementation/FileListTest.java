@@ -23,6 +23,7 @@ import static org.junit.Assert.assertFalse;
 
 public class FileListTest {
 
+
     File f;
     static String PREFIX = "src/test/resources/";
     static String FILE_1 = PREFIX+"1.txt";
